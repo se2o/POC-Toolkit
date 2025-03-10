@@ -1,0 +1,1 @@
+编写此Ruby脚本时的目的是为了测试可以在MSF中调用外部Python脚本的功能，所以此目录下的所有Ruby脚本在MSF中运行时都需要同名的Python脚本，并且需要更改Ruby脚本中与Python相关的地方
